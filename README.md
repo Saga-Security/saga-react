@@ -1,5 +1,3 @@
-[Русская версия](README_RU.md)
-
 # RE&CT
 
 ![](docs/images/logo_v2.png)
