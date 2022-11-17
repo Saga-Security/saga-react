@@ -1,7 +1,5 @@
 # RE&CT
 
-![](docs/images/logo_v2.png)
-
 The project represents the following:
 
 1. A [framework](https://atc-project.github.io/atc-react/) — knowledge base of actionable Incident Response techniques
